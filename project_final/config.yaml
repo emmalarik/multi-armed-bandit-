@@ -1,0 +1,9 @@
+instrukcja_powitalna: |
+  Witaj w badaniu! 
+  
+  Twoim zadaniem będzie wybieranie jednego z dwóch automatów. 
+  Każdy z nich ma inną, ukrytą szansę na wygraną. Postaraj się zdobyć jak najwięcej punktów.
+  
+  Naciśnij SPACJĘ, aby rozpocząć.
+
+instrukcja_koncowa: 'Dziękujemy za udział w badaniu.'
